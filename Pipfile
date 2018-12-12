@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-influxdb = "==5.0.0"
+influxdb = ">=5.2.1"
 pandas = "*"
 
 [dev-packages]
